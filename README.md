@@ -46,6 +46,7 @@ Aufgabe 6)
 
 Statische Methoden der Investitionsrechnung
 
+
 a) -Kostenvergleich von zwei Investitionsalternativen
 
     -Berechnung der kalkulatorischen Abschreibung mit der Funktion "LIA"
@@ -66,7 +67,9 @@ b) -Gewinnvergleich erstellen
     
 c) -Rentabilitäts- und Amortisationsvergleich einfügen (Tabellenblatt A.)
 
+
 Dynamische Methoden der Investitionsrechnung
+
 
 a) -Kapitalwertmethode 
 
