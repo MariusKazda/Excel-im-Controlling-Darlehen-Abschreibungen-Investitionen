@@ -71,16 +71,16 @@ c) -Rentabilitäts- und Amortisationsvergleich einfügen (Tabellenblatt A.)
 Dynamische Methoden der Investitionsrechnung
 
 
-a) -Kapitalwertmethode 
+d) -Kapitalwertmethode 
 
     -Berechnung des Nettobarwertes durch die Funktion "NBW"
     Ergebnis: Investition 2 ist rentabler
     
-b) -Modifizierter interner Zinsfuß
+e) -Modifizierter interner Zinsfuß
 
     -Berechnung mithilfe der Formel "QIKV"
     Ergebnis: Investition 1 ist rentabler
-c) -Annuitäten Methode
+f) -Annuitäten Methode
 
     - Kapitalwert x Wiedergewinnungsfaktor
     
