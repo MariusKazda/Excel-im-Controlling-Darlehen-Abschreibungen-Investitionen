@@ -1,8 +1,8 @@
 #Aufgabenstellung: Excel im Controlling: Darlehen, Abschreibungen, Investition
 
-- Aufgabe 1-4 mit "Finanzmathematischen Funktionen"
-Aufgabe 1) 
+Alle Aufgaben mithilfe von "Finanzmathematischen Funktionen"
 
+Aufgabe 1) 
 
 a)   -Berechnung der Annuität mit der Funktion "RMZ" und dem
       Wiedergewinnungsfaktor mit der Funktion "LET"
